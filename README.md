@@ -1,7 +1,7 @@
 # THE DARKEST HOUR IS THAT BEFORE THE DAWN
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSaipola0318&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
 <img src="https://img.shields.io/badge/Python-1e73be?style=flat-square&logo=Python&logoColor=black"/>
-- 이름: 김도환
+- 이름: 김도환(KIMDOHWAN)
 - 한국항공대 항공전자정보공학부 졸업
 - SSAFY 11기
 
