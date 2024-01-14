@@ -12,8 +12,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saipola0318)
 
 ![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=Saipola0318)
-<img src="http://mazandi.herokuapp.com/api?handle=Saipola0318&theme=warm"/>
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=saipola0318)
+<img src="http://mazandi.herokuapp.com/api?handle=saipola0318&theme=warm"/>
 
 
 
