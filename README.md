@@ -8,8 +8,8 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saipola0318&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saipola0318)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saipola0318&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saipola0318)
 
 ![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=Saipola0318)
